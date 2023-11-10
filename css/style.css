@@ -5,3 +5,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* HEADER CLASSES */
+
+header {
+    color: white;
+    background-color: rgb(64, 64, 88);
+}
+
+header i {
+    border: 1px solid white;
+    padding: 5px;
+    color: gray;
+}
+
+/* MAIN CLASSES */
+
+.bg-acquamarino{
+    background-color: rgb(60, 160, 138);
+}
+
+/* FOOTER CLASSES */
