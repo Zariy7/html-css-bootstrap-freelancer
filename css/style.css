@@ -52,3 +52,21 @@ header i {
 }
 
 /* FOOTER CLASSES */
+
+footer {
+    background-color: rgb(76, 76, 114);
+}
+
+footer i {
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+footer span{
+    color: rgb(60, 160, 138);
+}
+
+#copyright{
+    background-color: rgb(40, 40, 63);
+}
