@@ -6,14 +6,18 @@
     box-sizing: border-box;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 /* UTILITY CLASSES */
+
+h1 {
+    font-weight: 800;
+}
 
 .white{
     color: white;
-}
-
-.darkblue{
-    color: rgb(28, 28, 71);
 }
 
 .separator {
@@ -38,14 +42,6 @@ header i {
     border: 1px solid white;
     padding: 5px;
     color: gray;
-}
-
-.content img{
-    max-width: 100%;
-}
-
-h1 {
-    font-weight: 800;
 }
 
 /* MAIN CLASSES */
