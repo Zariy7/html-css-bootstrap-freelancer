@@ -12,7 +12,7 @@ body {
 
 /* UTILITY CLASSES */
 
-h1 {
+h1, h2 {
     font-weight: 800;
 }
 
@@ -45,5 +45,10 @@ header i {
 }
 
 /* MAIN CLASSES */
+
+.button {
+    border: 1px solid;
+    border-radius: 5px;
+}
 
 /* FOOTER CLASSES */
