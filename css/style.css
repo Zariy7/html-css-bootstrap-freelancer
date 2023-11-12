@@ -6,6 +6,27 @@
     box-sizing: border-box;
 }
 
+/* UTILITY CLASSES */
+
+.white{
+    color: white;
+}
+
+.darkblue{
+    color: rgb(28, 28, 71);
+}
+
+.separator {
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+.bg-acquamarino{
+    background-color: rgb(60, 160, 138);
+}
+
 /* HEADER CLASSES */
 
 header {
@@ -19,10 +40,14 @@ header i {
     color: gray;
 }
 
-/* MAIN CLASSES */
-
-.bg-acquamarino{
-    background-color: rgb(60, 160, 138);
+.content img{
+    max-width: 100%;
 }
+
+h1 {
+    font-weight: 800;
+}
+
+/* MAIN CLASSES */
 
 /* FOOTER CLASSES */
