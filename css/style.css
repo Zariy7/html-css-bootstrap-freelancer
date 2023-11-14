@@ -16,10 +16,6 @@ h1, h2 {
     font-weight: 800;
 }
 
-.white{
-    color: white;
-}
-
 .separator {
     border-width: 2px;
     border-style: solid;
@@ -29,6 +25,10 @@ h1, h2 {
 
 .bg-acquamarino{
     background-color: rgb(60, 160, 138);
+}
+
+ul {
+    list-style-type: none;
 }
 
 /* HEADER CLASSES */
@@ -44,13 +44,6 @@ header i {
     color: gray;
 }
 
-/* MAIN CLASSES */
-
-.button {
-    border: 1px solid;
-    border-radius: 5px;
-}
-
 /* FOOTER CLASSES */
 
 footer {
@@ -63,9 +56,9 @@ footer i {
     padding: 10px;
 }
 
-footer span{
+/* footer span{
     color: rgb(60, 160, 138);
-}
+} */
 
 #copyright{
     background-color: rgb(40, 40, 63);
