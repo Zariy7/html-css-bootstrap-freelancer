@@ -44,6 +44,11 @@ header i {
     color: gray;
 }
 
+/* MAIN CLASSES */
+#avatar-container {
+    width: 15rem;
+}
+
 /* FOOTER CLASSES */
 
 footer {
